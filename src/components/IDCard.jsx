@@ -1,4 +1,4 @@
-import UniversityLogo from "./UniversityLogo";
+import UniversityLogo from "./UniversityLogo.jsx";
 import HostelLabel from "./HostelLabel";
 import StudentImage from "./StudentImage";
 import StudentInfo from "./StudeGIntInfo";
