@@ -1,7 +1,7 @@
 import UniversityLogo from "./UniversityLogo";
 import HostelLabel from "./HostelLabel";
 import StudentImage from "./StudentImage";
-import StudentInfo from "./StudeGIntInfo";
+import StudentInfo from "./StudentInfo";
 
 function IDCard() {
   return (
